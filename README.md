@@ -1,25 +1,24 @@
+<h1 align="center">Hi 👋, I'm Arvind Kumar Yadav</h1>
+<h3 align="center">I am a backend developer specialising in Java. I have worked on various Java frameworks including SpringBoot and Microservices architecture.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arvind-yadav-03&label=Profile%20views&color=0e75b6&style=flat" alt="arvind-yadav-03" /> </p>
 
-# 👨🏻‍💻 [Arvind Kumar Yadav]
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arvind-yadav-03" alt="arvind-yadav-03" /></a> </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Arvind%20Kumar%20Yadav-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/aakarvind/)](https://www.linkedin.com/in/aakarvind/)  [![LeetCode Badge](http://img.shields.io/badge/-@aakarvind-1ca0f1?style=social&logo=Leetcode&logoColor=black&link=https://leetcode.com/aakarvind/)](https://leetcode.com/aakarvind/) [![GitHub followers](https://img.shields.io/github/followers/aakarvind?label=Follow&style=social)](https://github.com/aakarvind/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-aakarvind@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:aakarvind@gmail.com)](mailto:aakarvind@gmail.com) 
+- 💬 Ask me about **java, spring, spring boot and distributed systems**
 
-Hi, I am Arvind working as backend developer specialised in Java. I am currently learning SpringBoot and Microservices architechture.
+- 📫 How to reach me **aakarvind@gmail.com**
 
- 💻 **Technology** 
- [![Java](https://img.shields.io/static/v1?label=&message=Java&color=3C78A9&logo=java&logoColor=FFFFFF)]() 
- [![Spring](https://img.shields.io/static/v1?label=&message=Spring&color=F1E05A&logo=Spring&logoColor=FFFFFF)]()
- [![SQL](https://img.shields.io/static/v1?label=&message=MySql&color=47d147&logo=sql&logoColor=FFFFFF)]() 
- [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/arvindyadav003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arvindyadav003" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arvind-yadav-03&show_icons=true&locale=en&layout=compact" alt="arvind-yadav-03" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arvind-yadav-03&show_icons=true&locale=en" alt="arvind-yadav-03" /></p>
 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aakarvind&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aakarvind/ProblemSolving)
-<!---
-aakarvind/aakarvind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arvind-yadav-03&" alt="arvind-yadav-03" /></p>
