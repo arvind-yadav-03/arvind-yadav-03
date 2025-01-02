@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvind-yadav-03&label=Profile%20views&color=0e75b6&style=flat" alt="arvind-yadav-03" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arvind-yadav-03" alt="arvind-yadav-03" /></a> </p>
-
 - 💬 Ask me about **java, spring, spring boot and distributed systems**
 
 - 📫 How to reach me **aakarvind@gmail.com**
@@ -21,4 +19,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arvind-yadav-03&show_icons=true&locale=en" alt="arvind-yadav-03" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arvind-yadav-03&" alt="arvind-yadav-03" /></p>
